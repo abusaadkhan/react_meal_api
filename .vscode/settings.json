@@ -1,0 +1,9 @@
+{
+    "html.format.contentUnformatted": "",
+    "emmet.preferences": {
+
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+     }
+}
